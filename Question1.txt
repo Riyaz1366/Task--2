@@ -32,5 +32,5 @@ syntax:                                    syntax:
 example:                                    example:
 
      document.title :  will return the         window.innerHeight : will return 
-     title of the document                                           the height of the content area of the browser
+     title of the document                     the height of the content area of the browser
                       
